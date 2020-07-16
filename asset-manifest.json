@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robbfri/static/css/main.6f1215c1.chunk.css",
+    "main.js": "/robbfri/static/js/main.1a5c6020.chunk.js",
+    "main.js.map": "/robbfri/static/js/main.1a5c6020.chunk.js.map",
+    "runtime-main.js": "/robbfri/static/js/runtime-main.fda2c3bb.js",
+    "runtime-main.js.map": "/robbfri/static/js/runtime-main.fda2c3bb.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/robbfri/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0b5b9267.chunk.js": "/robbfri/static/js/2.0b5b9267.chunk.js",
+    "static/js/2.0b5b9267.chunk.js.map": "/robbfri/static/js/2.0b5b9267.chunk.js.map",
+    "index.html": "/robbfri/index.html",
+    "precache-manifest.5d114c4bb60275989b1ecc963b0b146b.js": "/robbfri/precache-manifest.5d114c4bb60275989b1ecc963b0b146b.js",
+    "service-worker.js": "/robbfri/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/robbfri/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.6f1215c1.chunk.css.map": "/robbfri/static/css/main.6f1215c1.chunk.css.map",
+    "static/js/2.0b5b9267.chunk.js.LICENSE.txt": "/robbfri/static/js/2.0b5b9267.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fda2c3bb.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0b5b9267.chunk.js",
+    "static/css/main.6f1215c1.chunk.css",
+    "static/js/main.1a5c6020.chunk.js"
+  ]
+}
